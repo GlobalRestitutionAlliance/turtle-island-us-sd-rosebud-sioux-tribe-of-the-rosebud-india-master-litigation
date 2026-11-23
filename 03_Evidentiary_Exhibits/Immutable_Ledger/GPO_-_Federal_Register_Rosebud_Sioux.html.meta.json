@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=rosebud+sioux",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=rosebud+sioux",
+  "title": "GPO - Federal Register Rosebud Sioux",
+  "fetched_at": "2026-11-23T14:32:45.821507Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 323255,
+  "sha256": "9c8217f4dda7b5b1c84351b462ae984a189608517786ab159be3fea0431940de",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://avalon.law.yale.edu/19th_century/nt001.asp",
+  "final_url": "https://avalon.law.yale.edu/19th_century/nt001.asp",
+  "title": "Yale Avalon - Fort Laramie Treaty 1868",
+  "fetched_at": "2026-11-23T14:32:44.215658Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 37341,
+  "sha256": "cbb1cf2869057bf4c0b3717892a5b55ff9061c2ae44fe572266188db3c7e19aa",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://www.bia.gov/regional-offices/great-plains/south-dakota/rosebud-agency",
+  "final_url": "https://www.bia.gov/regional-offices/great-plains/south-dakota/rosebud-agency",
+  "title": "BIA - Rosebud Agency",
+  "fetched_at": "2026-11-23T14:32:44.601478Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 51288,
+  "sha256": "07e97a4579f531dec077b3456cc1853a5f1984025c21997ee483afa579690679",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}

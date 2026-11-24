@@ -1,6 +1,6 @@
 # US SD ROSEBUD SIOUX TRIBE OF THE ROSEBUD INDIA - Litigation Framework
 
-**Template:** GRA litigation framework
+**Template:** CUBA-adapted framework
 **Generated:** 2026-11-21
 **Status:** SCAFFOLD - verification required. No fabricated citations.
 
